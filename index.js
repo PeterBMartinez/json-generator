@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = `json-examples`;
 const size = 20;
 
-generationObject = {
+const generationObject = {
     first: ['Peter', 'Taz', 'Spencer', 'Emily', 'Jeremy', 'Jeff', 'Jill', 'Thomas'],
     last: ['Smith', 'Knope', 'Scott', 'Fletcher', 'Warbucks', 'Unknown', 'Harrold', 'Castle', 'Johnson', 'Williams', 'Brown', 'Jones', 'Gercia', 'Miller', 'Davis'],
     employer: ['Adobe', 'Lendio', 'Amazon', 'Google', 'Facebook'],
