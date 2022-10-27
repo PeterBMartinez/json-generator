@@ -15,7 +15,7 @@ const generationObject = {
     employer: ['Adobe', 'Lendio', 'Amazon', 'Google', 'Facebook'],
     title: ['CEO', 'COO', 'Product Manager', 'Engineer', 'Sales', 'Reception'],
     hobby: ['Video Games', 'One Wheeling', 'Hiking', 'Swimming', 'Pickle Ball', 'Programming', 'Tennis', 'Skateboarding', 'Painting', 'Drawing'],
-    // Addnig new property
+    // Adding new property
     maried: ['yes', 'no']
 };
 ```
