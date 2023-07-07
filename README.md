@@ -1,3 +1,6 @@
+# why? 
+Because I've had to create several sample json documents for CSV Conversion etc, and got sick of having to recreate it all the time.
+
 # json-generator
 Just a simple node script that generates a json document using a generation object
 
